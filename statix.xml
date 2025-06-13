@@ -4,7 +4,7 @@
   <!-- Remote -->
   <remote name="statix"
           fetch="https://github.com/StatiXOS"
-          revision="vic-qpr2" />
+          revision="vic-qpr1" />
 
   <remote name="statix-staging"
           revision="bp2a"
